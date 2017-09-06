@@ -1,0 +1,24 @@
+{
+  "name": "redirect-secure",
+  "version": "1.0.0",
+  "description": "Redirects all non-secure requests. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnthonyRuffino/redirect-secure.git"
+  },
+  "keywords": [
+    "secure",
+    "https",
+    "redirect"
+  ],
+  "author": "Anthony Ruffino",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AnthonyRuffino/redirect-secure/issues"
+  },
+  "homepage": "https://github.com/AnthonyRuffino/redirect-secure#readme"
+}
